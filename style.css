@@ -1,0 +1,56 @@
+body
+{
+	background: #a393e9;
+}
+#heading{
+    font-family: Good Unicorn;
+    color:rgb(49, 10, 85);
+    font-size: 50px;
+}
+#no1{
+    font-family: Georgia;
+    background-color: rosybrown;
+    font-size: 30px;
+}
+#no2{
+    font-family: Georgia;
+    background-color: rosybrown;
+    font-size: 30px;
+}
+	.login_div1 , .login_div2
+	{
+		background: white;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+#button{
+    background-color: rosybrown;
+    font-family: Good Unicorn;
+    color:rgb(49, 10, 85);
+    font-size: 30px;
+}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid rosybrown;
+padding: 10px;
+float: none;
+text-align: left;
+}
